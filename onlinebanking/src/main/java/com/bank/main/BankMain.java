@@ -33,6 +33,7 @@ public class BankMain {
 			s.nextLine();
 			System.out.println("Enter the phone: ");
 			String phone=s1.nextLine();
+					
 			
 			System.out.println("Enter the Password");
 			String pass=s1.nextLine();
