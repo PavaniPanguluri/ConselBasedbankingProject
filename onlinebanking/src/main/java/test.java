@@ -11,11 +11,7 @@ public class test {
 	@Test
 	public void ServiceTest() throws SQLException
 	{
-//		Bank b=new Bank("Gnani",890675434,2345671,"Gnani@514",0,800,0,0,0);
-//		BankService bs=new BankService();
-//	    int actual=bs.loginDetails(b);
-//	    assertEquals(1,actual);
-		
+//	
 	}
 
 
