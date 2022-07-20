@@ -1,7 +1,7 @@
 # ConselBasedbankingProject
-#ONLINE BANKING
+<h1>ONLINE BANKING<h1>
 This project was developed using JAVA(Eclipse IDE editor),JDBC Driver and MYSQL.
-#Project Description
+<h2>Project Description<h2>
 The Bank app is a console-based application that simulates banking operations.A customer can apply for an account, view their balance, and make withdrawals and deposits. An employee can approve or deny accounts and view account balances for their customers.
 <h2>Technologies Used</h2>
 <ul>
