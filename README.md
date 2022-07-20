@@ -16,9 +16,9 @@ The Bank app is a console-based application that simulates banking operations.A 
 <ul>
  <li> Balance verification</li>
   <li> Employee gives Account number to customer by verifying details</li>
-  <li> Can credit Amount</li>
+  <li> Can Withdrawl Amount</li>
   <li> Making deposits</li>
-  <li>  Creating Customer Accounts</li>
+  <li>  Creating Customer Bank Accounts</li>
   <li> Updating the  account details of the customer </li>
 </ul>
 <h3> To Run The Project<h3>
