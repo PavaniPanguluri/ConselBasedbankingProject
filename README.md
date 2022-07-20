@@ -11,7 +11,6 @@ The Bank app is a console-based application that simulates banking operations.A 
 <li>MySQL</li>
 <li>JDBC</li>
 <li>Maven</li>
-<li>Log4J</li>
 </ul>
 <h2>Features</h2>
 <ul>
@@ -23,4 +22,5 @@ The Bank app is a console-based application that simulates banking operations.A 
   <li> Updating the  account details of the customer </li>
 </ul>
 <h3> To Run The Project<h3>
+ Download the source code from github and then extract the source code into your computer by creating one folder  after that you have to import your project into Eclipse and run the application by creating appropriate database in ur mysql written in dao code.
 
